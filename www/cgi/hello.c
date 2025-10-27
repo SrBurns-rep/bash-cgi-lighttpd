@@ -4,6 +4,7 @@
 
 int main(int argc, char *argv[]) {
 
+    printf("<head><meta charset=UTF-8></head>");
     printf("<p>Olá mundo!</p>\n");
     printf("<p>Isso aqui está usando um script CGI =3</p>\n");
 
